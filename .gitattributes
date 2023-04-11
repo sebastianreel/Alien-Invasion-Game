@@ -1,2 +1,3 @@
 **/shaders/* linguist-vendored
+*.shader linguist-detectable=false
 **/cginc/* linguist-vendored
