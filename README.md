@@ -12,5 +12,5 @@ The game is a top-dwon 2D shooter, with a space theme. Focus on this was to lear
 * Multiple levels, allowing user to continue when all enemies are defeated
 * Sound effects for winning, losing, and shooting.
 
-## Notes:
+## Notes
 * Models of enemies, player, asteroids, and other assets were found free on the Unity Asset Store
